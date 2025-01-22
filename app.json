@@ -15,8 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#ffffff"
-      }
-      
+      },
+      "package": "com.pallavi_sakre.GithubSearch"
     },
     "web": {
       "bundler": "metro",
@@ -41,6 +41,9 @@
     "extra": {
       "router": {
         "origin": false
+      },
+      "eas": {
+        "projectId": "feed9d64-9829-4fea-b78e-2b07ecfb498a"
       }
     }
   }
