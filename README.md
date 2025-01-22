@@ -5,6 +5,7 @@ This is an [Expo](https://expo.dev) project created with [create-expo-app](https
 
 ## 📝 Introduction
 
+
 Gitgub Explorer : it is an app to explore github repositories and deatils of repository. It is built using [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/). The project aims to search github repositories easily and make them save.
 
 ## Get started
